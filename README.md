@@ -8,6 +8,7 @@ Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung u
 
 ## Andere ähnliche Seiten 😉
 
+- [https://einmalzalung200.de/](https://einmalzalung200.de/)
 - [https://einmahlzahlung200.de/](https://einmahlzahlung200.de/)
 - [https://www.einmalzahlung200euro.de/](https://www.einmalzahlung200euro.de/)
 - [https://200einmalzahlung.de/](https://200einmalzahlung.de/)
