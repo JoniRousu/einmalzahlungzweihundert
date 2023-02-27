@@ -17,8 +17,10 @@ Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung u
 
 ## Warum diese Seite?
 
-Weil Phishing ein ernstes Thema ist, habe ich diese Domain für ~6€ gekauft und diese Seite erstellt. 
+Weil Phishing ein ernstes Thema ist, habe ich diese Domain für ~6€ gekauft und diese Seite erstellt.
 
 Damit niemand hier Schabernack treiben kann.
+
+Hier [eine Seite](https://einmaIzahlung200.de/), auf der noch mehr Domains sind, die extra aus diesem Grund registriert wurden.
 
 ---
