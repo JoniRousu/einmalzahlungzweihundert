@@ -12,6 +12,7 @@ Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung u
 - [https://einmahlzahlung200.de/](https://einmahlzahlung200.de/)
 - [https://www.einmalzahlung200euro.de/](https://www.einmalzahlung200euro.de/)
 - [https://200einmalzahlung.de/](https://200einmalzahlung.de/)
+- [https://einmalzahlung2OO.de/](https://einmalzahlung2OO.de/) (streng genommen keine Seite, sondern ein Redirect)
 
 ---
 
