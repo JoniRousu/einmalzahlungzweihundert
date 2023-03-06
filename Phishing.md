@@ -9,15 +9,15 @@ Diese Webseiten habe ich mit Hilfe des *Typo Tools* von [dnslytics.com](https://
 ## ☣ Quarantänezone
 
 ```text
-1. eimalzahlung200.de
-2. einalzahlung200.de
-3. einmalahlung200.de
-4. einmalzahlng200.de
-5. einmalzahlug200.de
-6. einmalzahlujg200.de
-7. einmalzahlun200.de
-8. einmalzahlung-200.de
-9. einmalzahlung20.de
+ 1. eimalzahlung200.de
+ 2. einalzahlung200.de
+ 3. einmalahlung200.de
+ 4. einmalzahlng200.de
+ 5. einmalzahlug200.de
+ 6. einmalzahlujg200.de
+ 7. einmalzahlun200.de
+ 8. einmalzahlung-200.de
+ 9. einmalzahlung20.de
 10. einmalzahlung2000.de
 11. einmalzahung200.de
 12. einmalzhlung200.de
