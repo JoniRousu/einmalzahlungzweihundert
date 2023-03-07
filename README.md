@@ -14,7 +14,7 @@ Weil [Phishing](https://de.wikipedia.org/wiki/Phishing) ein ernstes Thema ist, h
 
 Damit niemand hier Schabernack treiben kann.
 
-Einige potentielle (registrierte) Phishing-Webseiten finden sich [hier](Phishing)
+Einige potentielle (registrierte) Phishing-Webseiten finden sich [hier](Phishing).
 
 Hier [eine Seite](https://einmaIzahlung200.de/), auf der noch mehr Domains sind, die extra aus diesem Grund registriert wurden.
 
@@ -26,7 +26,7 @@ Immerhin hat jemand die Domain [1malzahlung200.de](https://1malzahlung200.de) re
 
 - [https://einmal200zahlung.de/](https://einmal200zahlung.de/)
 - [https://einmaalzahlung200.de/](https://einmaalzahlung200.de/)
-- [http://einmalzahlung250.de/](http://einmalzahlung250.de/)
+- [https://einmalzahlung250.de/](https://einmalzahlung250.de/)
 - [https://einmalzalung200.de/](https://einmalzalung200.de/)
 - [https://einmahlzahlung200.de/](https://einmahlzahlung200.de/)
 - [https://www.einmalzahlung200euro.de/](https://www.einmalzahlung200euro.de/)
