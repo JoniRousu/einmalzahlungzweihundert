@@ -1,6 +1,6 @@
 # 💸 Einmalzahlung Zweihundert .de
 
-Vielleicht suchst du [https://www.einmalzahlung200.de/](https://www.einmalzahlung200.de/) ?
+Vielleicht suchst du [www.einmalzahlung200.de](https://www.einmalzahlung200.de/), bzw. [antrag.einmalzahlung200.de](https://antrag.einmalzahlung200.de/)?
 
 Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung und Forschung zur Beantragung der Energiepreispauschale in Höhe von 200€ gemäß dem ["*Gesetz zur Zahlung einer einmaligen Energiepreispauschale für Studierende, Fachschülerinnen und Fachschüler sowie Berufsfachschülerinnen und Berufsfachschüler in Bildungsgängen mit dem Ziel eines mindestens zweijährigen berufsqualifizierenden Abschlusses (Studierenden-Energiepreispauschalengesetz - **EPPSG**)*"](https://www.gesetze-im-internet.de/eppsg/).
 
