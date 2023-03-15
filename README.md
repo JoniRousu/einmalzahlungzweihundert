@@ -2,6 +2,8 @@
 
 Vielleicht suchst du [www.einmalzahlung200.de](https://www.einmalzahlung200.de/), bzw. [antrag.einmalzahlung200.de](https://antrag.einmalzahlung200.de/)?
 
+Auf der offiziellen Seite gibt es einen [Warteraum](Warteraum) 🤦
+
 ![Realsatire - Warteraum auch digital](images/warteraum.png)
 Screenshot der echten Seite, aufgerufen am 15.03.2023, 09:32:07 Uhr
 
@@ -53,3 +55,5 @@ Immerhin hat jemand die Domain [1malzahlung200.de](https://1malzahlung200.de) re
 ## 🤨 Andere Seiten
 
 - [https://einmalzahlung500.de/](https://einmalzahlung500.de/)
+
+---
