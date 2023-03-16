@@ -2,15 +2,17 @@
 
 Vielleicht suchst du [www.einmalzahlung200.de](https://www.einmalzahlung200.de/), bzw. [antrag.einmalzahlung200.de](https://antrag.einmalzahlung200.de/)?
 
-Auf der offiziellen Seite gibt es einen [Warteraum](Warteraum) 🤦
-
-![Realsatire - Warteraum auch digital](images/warteraum.png)
-
-Screenshot der echten Seite, aufgerufen am 15.03.2023, 09:32:07 Uhr
-
 Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung und Forschung zur Beantragung der Energiepreispauschale in Höhe von 200€ gemäß dem ["*Gesetz zur Zahlung einer einmaligen Energiepreispauschale für Studierende, Fachschülerinnen und Fachschüler sowie Berufsfachschülerinnen und Berufsfachschüler in Bildungsgängen mit dem Ziel eines mindestens zweijährigen berufsqualifizierenden Abschlusses (Studierenden-Energiepreispauschalengesetz - **EPPSG**)*"](https://www.gesetze-im-internet.de/eppsg/).
 
-Hier zwei Seiten, die sich mit der Thematik auseinandersetzen: [keinmalzahlung200.de](https://www.keinmalzahlung200.de/) und [einmalzahlung.wtf](https://einmalzahlung.wtf/)
+Hier zwei Seiten, die sich mit der Thematik auseinandersetzen: [keinmalzahlung200.de](https://www.keinmalzahlung200.de/) und [einmalzahlung.wtf](https://einmalzahlung.wtf/).
+
+---
+
+## 📰 Aktuelles
+
+Auf der offiziellen Seite <del>gibt</del> gab es einen [Warteraum](Warteraum) 🤦
+
+Mittlerweile hat es meine Uni geschafft, mir den Code zur Verfügung zu stellen (am 16.03.23), um die Einmalzahlung zu beantragen. Den Antrag habe ich innerhalb von 5 Minuten stellen können (abgeschickt am 16.03.23, 12:06 Uhr), habe aber noch keinen Bescheid erhalten.
 
 ---
 
