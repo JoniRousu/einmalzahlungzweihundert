@@ -12,7 +12,11 @@ Hier zwei Seiten, die sich mit der Thematik auseinandersetzen: [keinmalzahlung20
 
 Auf der offiziellen Seite <del>gibt</del> gab es einen [Warteraum](Warteraum) 🤦
 
-Mittlerweile hat es meine Uni geschafft, mir den Code zur Verfügung zu stellen (am 16.03.23), um die Einmalzahlung zu beantragen. Den Antrag habe ich innerhalb von 5 Minuten stellen können (abgeschickt am 16.03.23, 12:06 Uhr), habe aber noch keinen Bescheid erhalten.
+Mittlerweile hat es meine Uni geschafft, mir den Code zur Verfügung zu stellen (am 16.03.23), um die Einmalzahlung zu beantragen.
+
+Den Antrag habe ich innerhalb von 5 Minuten stellen können (abgeschickt am 16.03.23, 12:06 Uhr) und habe den Bescheid am 17.03.23 um 00:54 Uhr, also nach etwa 13 Stunden erhalten.
+
+Mal sehen wie lang die Auszahlung dauert.
 
 ---
 
