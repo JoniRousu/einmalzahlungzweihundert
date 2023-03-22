@@ -2,7 +2,7 @@
 
 Vielleicht suchst du [www.einmalzahlung200.de](https://www.einmalzahlung200.de/), bzw. [antrag.einmalzahlung200.de](https://antrag.einmalzahlung200.de/)?
 
-Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung und Forschung zur Beantragung der Energiepreispauschale in Höhe von 200€ gemäß dem ["*Gesetz zur Zahlung einer einmaligen Energiepreispauschale für Studierende, Fachschülerinnen und Fachschüler sowie Berufsfachschülerinnen und Berufsfachschüler in Bildungsgängen mit dem Ziel eines mindestens zweijährigen berufsqualifizierenden Abschlusses (Studierenden-Energiepreispauschalengesetz - **EPPSG**)*"](https://www.gesetze-im-internet.de/eppsg/).
+Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung und Forschung zur Beantragung der Energiepreispauschale in Höhe von 200€ gemäß dem [*EPPSG*](https://www.gesetze-im-internet.de/eppsg/).
 
 Hier zwei Seiten, die sich mit der Thematik auseinandersetzen: [keinmalzahlung200.de](https://www.keinmalzahlung200.de/) und [einmalzahlung.wtf](https://einmalzahlung.wtf/).
 
@@ -24,11 +24,11 @@ Die Auszahlung kam am Dienstag, den 21.03.2023. Es dauerte also 3-4 Werktage, bi
 
 Weil [Phishing](https://de.wikipedia.org/wiki/Phishing) ein ernstes Thema ist, habe ich diese Domain für ~6€ gekauft und diese Seite erstellt.
 
-Damit niemand hier Schabernack treiben kann.
+Damit niemand hier [Schabernack™](https://www.youtube.com/watch?v=8fYzpK2QqrY) treiben kann.
 
 Einige potentielle (registrierte) Phishing-Webseiten finden sich [hier](Phishing).
 
-Hier [eine Seite](https://einmaIzahlung200.de/), auf der noch mehr Domains sind, die extra aus diesem Grund registriert wurden.
+[Hier eine Seite](https://einmaIzahlung200.de/), auf der noch mehr Domains sind, die extra aus diesem Grund registriert wurden.
 
 Immerhin hat jemand die Domain [1malzahlung200.de](https://1malzahlung200.de) registriert mit einer Umleitung auf die echte Seite.
 
