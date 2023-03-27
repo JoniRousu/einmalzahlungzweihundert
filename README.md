@@ -4,13 +4,9 @@ Vielleicht suchst du [www.einmalzahlung200.de](https://www.einmalzahlung200.de/)
 
 Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung und Forschung zur Beantragung der Energiepreispauschale in Höhe von 200€ gemäß dem [*EPPSG*](https://www.gesetze-im-internet.de/eppsg/).
 
-Hier zwei Seiten, die sich mit der Thematik auseinandersetzen: [keinmalzahlung200.de](https://www.keinmalzahlung200.de/) und [einmalzahlung.wtf](https://einmalzahlung.wtf/).
-
 ---
 
 ## 📰 Aktuelles
-
-Auf der offiziellen Seite <del>gibt</del> gab es einen [Warteraum](Warteraum) 🤦
 
 Mittlerweile hat es meine Uni geschafft, mir den Code zur Verfügung zu stellen (am Donnerstag, den 16.03.23), um die Einmalzahlung zu beantragen.
 
@@ -37,45 +33,37 @@ Immerhin wurden die Domains
 
 registriert mit einer Umleitung auf die echte Seite.
 
+Andere ähnliche Seiten wie diese habe ich in meiner [Linksammlung mit "Einmalzahlungsseiten"](/Linksammlung) zusammengefasst.
+
 ### 📈 Aufrufzahlen dieser Seite
 
 Was solche Seiten potentiell an Schaden hätten hervorrufen können, verdeutlichen die Aufrufzahlen dieser Webseite (einmalzahlungzweihundert.de).
 
 ![Aufrufzahlen dieser Webseite, am 15.03. 241 Besucher](images/visitors.png)
 
-Am 15.03.2023, also als die Antragsstellung freigeschaltet wurde, erreichte diese Webseite 241 Besucher. Am darauffolgenden Tag waren 103 Besucher hier. Und hier reden wir nicht von einem Tippfehler sondern von der ausformulierten Schreibweise *zweihundert*.
+Am 15.03.2023, also als die Antragsstellung freigeschaltet wurde, erreichte diese Webseite 241 Besucher.
+Am darauffolgenden Tag waren 103 Besucher hier.
+Und hier reden wir nicht von einem Tippfehler sondern von der ausformulierten Schreibweise *zweihundert*.
 
 ---
 
-## 😉 Andere ähnliche Seiten
+## ⚖️ Kritik
 
-- [https://einmal200zahlung.de/](https://einmal200zahlung.de/)
-- [https://einmaalzahlung200.de/](https://einmaalzahlung200.de/)
-- [https://einmalzahlung250.de/](https://einmalzahlung250.de/)
-- [https://einmalzalung200.de/](https://einmalzalung200.de/)
-- [https://einmahlzahlung200.de/](https://einmahlzahlung200.de/)
-- [https://www.einmalzahlung200euro.de/](https://www.einmalzahlung200euro.de/)
-- [https://200einmalzahlung.de/](https://200einmalzahlung.de/)
+Hier zwei Seiten, die sich mit der generellen Thematik auseinandersetzen: [keinmalzahlung200.de](https://www.keinmalzahlung200.de/) und [einmalzahlung.wtf](https://einmalzahlung.wtf/).
 
----
+Auf der offiziellen Seite <del>gibt</del> gab es einen [Warteraum](Warteraum) 🤦
 
-## 😄 Lustige Redirects
+Zur Beantragung wird die [BundID](https://id.bund.de/de) benötigt.
+Dies ist mit viel Kritik verbunden, da dieses Konto zwangsweise angelegt werden muss und persönliche Daten erhoben werden müssen, die in Augen vieler nicht notwendig wären. Dazu zähle ich mich auch.
+Wenn die Hochschule o.ä. einen personalisierten Code mit PIN-Code generiert, ist es nicht mehr nötig die Identität erneut zu bestätigen.
 
-- [http://einmalzahlung69.de/](http://einmalzahlung69.de/)
-- [http://einmalzahlung2OO.de/](http://einmalzahlung2OO.de/)
-- [https://einmalzahlung400.de/](https://einmalzahlung400.de/)
-- [https://einmalzahlung420.de/](https://einmalzahlung420.de/)
-- [http://einmalzahlung600.de/](http://einmalzahlung600.de/)
-- [http://einmalzahlung800.de/](http://einmalzahlung800.de/)
-- [http://einmalzahlung1000.de/](http://einmalzahlung1000.de/)
-- [http://einmalzahlung.com/](http://einmalzahlung.com/)
+Witzigerweise gibt es nun eine Seite: [Widerruf200.de](https://widerruf200.de/) auf der eine E-Mail generiert werden kann, um die BundID löschen zu lassen.
 
 ---
 
-## 🤨 Andere Seiten
 
-- [https://einmalzahlung500.de/](https://einmalzahlung500.de/)
-- [https://www.200-euro-einmalzahlung.de/](https://www.200-euro-einmalzahlung.de/)
+
+## [➡ Linksammlung mit "Einmalzahlungsseiten"](/Linksammlung)
 
 ---
 
