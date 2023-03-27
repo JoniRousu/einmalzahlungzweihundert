@@ -2,6 +2,8 @@
 
 Diese Webseiten habe ich mit Hilfe des *Typo Tools* von [dnslytics.com](https://dnslytics.com/domain-typos) gefunden. Sie sind registriert und bieten hohes Potential für Phishing, da es häufige Tippfehler der echten Domain [einmalzahlung200.de](https://einmalzahlung200.de) sind.
 
+Es sind mittlerweile über 60 Stück 😳
+
 [**Zurück**](/)
 
 ---
@@ -26,8 +28,53 @@ Diese Webseiten habe ich mit Hilfe des *Typo Tools* von [dnslytics.com](https://
 15. enmalzahlung200.de
 16. wwweinmalzahlung200.de
 17. www-einmalzahlung200.de
+18. eeinmalzahlung200.de
+19. eibmalzahlung200.de
+20. eihmalzahlung200.de
+21. eiinmalzahlung200.de
+22. eikmalzahlung200.de
+23. einamlzahlung200.de
+24. einmakzahlung200.de
+25. einmalazhlung200.de
+26. einmallzahlung200.de
+27. einmaltahlung200.de
+28. einmalzaahlung200.de
+29. einmalzahhlung200.de
+30. einmalzahkung200.de
+31. einmalzahlhng200.de
+32. einmalzahljng200.de
+33. einmalzahllung200.de
+34. einmalzahlnug200.de
+35. einmalzahlubg200.de
+36. einmalzahlugn200.de
+37. einmalzahluhg200.de
+38. einmalzahlukg200.de
+39. einmalzahlun2g00.de
+40. einmalzahlunf200.de
+41. einmalzahlung020.de
+42. einmalzahlung2200.de
+43. einmalzahlung2o0.de
+44. einmalzahlungg200.de
+45. einmalzahlunh200.de
+46. einmalzahlunng200.de
+47. einmalzahluung200.de
+48. einmalzahulng200.de
+49. einmalzzahlung200.de
+50. einmazlahlung200.de
+51. einmlazahlung200.de
+52. einmmalzahlung200.de
+53. einmslzahlung200.de
+54. einnalzahlung200.de
+55. einnmalzahlung200.de
+56. enimalzahlung200.de
+57. eonmalzahlung200.de
+58. eunmalzahlung200.de
+59. ienmalzahlung200.de
+60. inmalzahlung200.de
+61. rinmalzahlung200.de
+62. winmalzahlung200.de
 ```
 
-Zuletzt aktualisiert: 06.03.2023 17:19 Uhr
+Zuletzt aktualisiert: 27.03.2023 12:02 Uhr
 
 ---
