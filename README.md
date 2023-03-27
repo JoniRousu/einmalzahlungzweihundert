@@ -30,7 +30,12 @@ Damit niemand hier [Schabernack™](https://www.youtube.com/watch?v=8fYzpK2QqrY)
 
 [Hier eine Seite](https://einmaIzahlung200.de/), auf der noch mehr Domains sind, die extra aus diesem Grund registriert wurden.
 
-Immerhin hat jemand die Domain [1malzahlung200.de](https://1malzahlung200.de) registriert mit einer Umleitung auf die echte Seite.
+Immerhin wurden die Domains
+
+- [1malzahlung200.de](https://1malzahlung200.de)
+- [einmal-zahlung-200.de](https://einmal-zahlung-200.de/)
+
+registriert mit einer Umleitung auf die echte Seite.
 
 ---
 
@@ -62,6 +67,7 @@ Immerhin hat jemand die Domain [1malzahlung200.de](https://1malzahlung200.de) re
 ## 🤨 Andere Seiten
 
 - [https://einmalzahlung500.de/](https://einmalzahlung500.de/)
+- [https://www.200-euro-einmalzahlung.de/](https://www.200-euro-einmalzahlung.de/)
 
 ---
 
