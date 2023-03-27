@@ -37,6 +37,14 @@ Immerhin wurden die Domains
 
 registriert mit einer Umleitung auf die echte Seite.
 
+### 📈 Aufrufzahlen dieser Seite
+
+Was solche Seiten potentiell an Schaden hätten hervorrufen können, verdeutlichen die Aufrufzahlen dieser Webseite (einmalzahlungzweihundert.de).
+
+![Aufrufzahlen dieser Webseite, am 15.03. 241 Besucher](images/visitors.png)
+
+Am 15.03.2023, also als die Antragsstellung freigeschaltet wurde, erreichte diese Webseite 241 Besucher. Am darauffolgenden Tag waren 103 Besucher hier. Und hier reden wir nicht von einem Tippfehler sondern von der ausformulierten Schreibweise *zweihundert*.
+
 ---
 
 ## 😉 Andere ähnliche Seiten
