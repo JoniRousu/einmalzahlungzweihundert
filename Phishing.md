@@ -4,6 +4,8 @@ Diese Webseiten habe ich mit Hilfe des *Typo Tools* von [dnslytics.com](https://
 
 Es sind mittlerweile über 60 Stück 😳
 
+URL zum Einfügen in Pi-Hole: [https://www.einmalzahlungzweihundert.de/bl-einmalzahlung](https://www.einmalzahlungzweihundert.de/bl-einmalzahlung)
+
 [**Zurück**](/)
 
 ---

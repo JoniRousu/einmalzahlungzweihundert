@@ -22,7 +22,7 @@ Weil [Phishing](https://de.wikipedia.org/wiki/Phishing) ein ernstes Thema ist, h
 
 Damit niemand hier [Schabernack™](https://www.youtube.com/watch?v=8fYzpK2QqrY) treiben kann.
 
-Über **60(!)** potentielle (registrierte) Phishing-Webseiten finden sich [hier](Phishing).
+Über **60(!)** potentielle (registrierte) Phishing-Webseiten finden sich [hier](Phishing). Dort stelle ich die Liste auch für Pi-Hole zum Einfügen bereit.
 
 [Hier eine Seite](https://einmaIzahlung200.de/), auf der noch mehr Domains sind, die extra aus diesem Grund registriert wurden.
 
