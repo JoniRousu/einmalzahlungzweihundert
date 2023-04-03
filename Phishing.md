@@ -2,7 +2,7 @@
 
 Diese Webseiten habe ich mit Hilfe des *Typo Tools* von [dnslytics.com](https://dnslytics.com/domain-typos) gefunden. Sie sind registriert und bieten hohes Potential für Phishing, da es häufige Tippfehler der echten Domain [einmalzahlung200.de](https://einmalzahlung200.de) sind.
 
-Es sind mittlerweile über 60 Stück 😳
+Es sind mittlerweile über 70 Stück 😳
 
 ### 🕳 Adlist für Pi-Hole: [https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt](https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt)
 
@@ -79,6 +79,18 @@ Es sind mittlerweile über 60 Stück 😳
 64. 200einmahlzahlung.de
 65. 200euroeinmalzahlung.de
 66. energiepauschale200.de
+67. einmalzahlung-200.com
+68. einmalzahlung-200.eu
+69. einmalzahlung-200.info
+70. einmalzahlung-200.net
+71. einmalzahlung-200.org
+72. einmalzahlung.com
+73. einmalzahlung.de
+74. einmalzahlung200.berlin
+75. einmalzahlung200.com
+76. einmalzahlung200.online
+77. einmalzahlung200.org
+78. einmalzahlungen.de
 ```
 
 Zuletzt aktualisiert: 27.03.2023 12:18 Uhr
