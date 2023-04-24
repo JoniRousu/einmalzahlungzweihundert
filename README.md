@@ -18,7 +18,7 @@ Weil [Phishing](https://de.wikipedia.org/wiki/Phishing) ein ernstes Thema ist, h
 
 Damit niemand hier [Schabernack™](https://www.youtube.com/watch?v=8fYzpK2QqrY) treiben kann.
 
-**80(!)** potentielle (registrierte) Phishing-Webseiten finden sich [hier](Phishing). Da ich diese Liste ohnehin angefertigt habe und
+Über **80(!)** potentielle (registrierte) Phishing-Webseiten finden sich [hier](Phishing). Da ich diese Liste ohnehin angefertigt habe und
 neulich Pi-Hole installiert habe, biete ich sie direkt mal als Adlist an.
 
 ---
