@@ -1,5 +1,5 @@
 # Eine Liste mit mir bekannten möglichen Phishing Webseiten rund um die einmalzahlung200
-# Zuletzt aktualisiert: 30.04.2023 17:44 Uhr
+# Zuletzt aktualisiert: 09.05.2023 10:21 Uhr
 
 eimalzahlung200.de
 einalzahlung200.de
@@ -86,3 +86,4 @@ einmal200zahlung.de
 200-euro-einmalzahlung.de
 einmalzahlung299.de
 einmalpayment200.de
+200euro-erhalten.de
