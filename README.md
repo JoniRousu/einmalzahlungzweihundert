@@ -4,7 +4,7 @@ Vielleicht suchst du [www.einmalzahlung200.de](https://www.einmalzahlung200.de/)
 
 Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung und Forschung zur Beantragung der Energiepreispauschale in Höhe von 200€ gemäß dem [*EPPSG*](https://www.gesetze-im-internet.de/eppsg/).
 
-Oder du suchst meine _Adlist für Pi-Hole_? 🕳 [https://&shy;www.&shy;ein&shy;mal&shy;zah&shy;lung&shy;zwei&shy;hun&shy;dert&shy;.de/bl-einmalzahlung.txt](https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt)
+Oder du suchst meine *Adlist für Pi-Hole*? 🕳 [https://&shy;www.&shy;ein&shy;mal&shy;zah&shy;lung&shy;zwei&shy;hun&shy;dert&shy;.de/bl-einmalzahlung.txt](https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt)
 
 ---
 
