@@ -14,9 +14,13 @@ Google hat zwei neue [Top-Level-Domains](https://de.wikipedia.org/wiki/Top-Level
 
 Das beide sehr beliebte Dateiformate sind ist vielen bekannt. Gleichzeitig ist somit die Phishing- und Malware-Gefahr extrem groß. Daher sind beide TLD in meinem Pi-Hole geblacklistet. Leider gibt es (noch) keine Möglichkeit eine Adlist mit nur TLDs zu erstellen.
 
-Bei [Github](https://github.com/trickest/zip/tree/main) gibt es ein Repo mit einer Liste mit bisher entdeckten ``.zip`` Domains.
+Bei [Github](https://github.com/trickest/zip/tree/main) gibt es ein Repo mit einer Liste mit bisher entdeckten ``.zip`` Domains und ich habe daraus eine Adlist für Pi-Hole erstellt.
 
-### Zip-Domain Adlist: 🕳 [https://www.einmalzahlungzweihundert.de/bl-zip.txt](https://www.einmalzahlungzweihundert.de/bl-zip.txt)
+---
+
+### 🕳 Zip-Domain Adlist: [https://www.einmalzahlungzweihundert.de/bl-zip.txt](https://www.einmalzahlungzweihundert.de/bl-zip.txt)
+
+### 🕳 Ein&shy;mal&shy;zah&shy;lung Adlist: [https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt](https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt)
 
 ---
 
