@@ -2,7 +2,7 @@
 # Die Liste stammt aus dem Github-Repository https://github.com/trickest/zip
 # und wird von mir modifiziert.
 # Homepage: https://www.einmalzahlungzweihundert.de/
-# Zuletzt aktualisiert: 22.05.2023 09:56 Uhr
+# Zuletzt aktualisiert: 23.05.2023 14:00 Uhr
 
 # MIT License
 # 

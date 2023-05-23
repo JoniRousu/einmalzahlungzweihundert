@@ -16,6 +16,8 @@ Das beide sehr beliebte Dateiformate sind ist vielen bekannt. Gleichzeitig ist s
 
 Bei [Github](https://github.com/trickest/zip/tree/main) gibt es ein Repo mit einer Liste mit bisher entdeckten ``.zip`` Domains.
 
+### Zip-Domain Adlist: 🕳 [https://www.einmalzahlungzweihundert.de/bl-zip.txt](https://www.einmalzahlungzweihundert.de/bl-zip.txt)
+
 ---
 
 ## 🤔 Warum diese Seite?
