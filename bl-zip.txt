@@ -32,7 +32,6 @@
 0-1.zip
 0-10.zip
 0-64bit.zip
-0-beta.zip
 0-release.zip
 0-stable.zip
 0-win32.zip
@@ -60,8 +59,6 @@
 1-beta2.zip
 1-macos.zip
 1-win32.zip
-1-win64.zip
-1-x64.zip
 1.zip
 101010.zip
 10142siw1.zip
@@ -73,7 +70,6 @@
 10k.zip
 112224.zip
 1123.zip
-114514.zip
 122196.zip
 123.zip
 123456.zip
@@ -132,7 +128,6 @@
 5c44c49ea6a05df65dad1a913c91a07c.zip
 5ch.zip
 60601.zip
-64bit.zip
 64k.zip
 68432.zip
 69.zip
@@ -176,7 +171,6 @@ abode.zip
 abomb.zip
 abortions.zip
 abrechnung.zip
-absolute.zip
 absolutely-not-a-virus.zip
 absolutelybangingnudes.zip
 abstudio-win32.zip
@@ -195,7 +189,6 @@ accountrecords.zip
 accounts.zip
 accountsreceivable.zip
 ace-your-auditioninstaller.zip
-acfun.zip
 achal.zip
 achraf.zip
 ackermann.zip
@@ -306,7 +299,6 @@ amey.zip
 amin.zip
 amogus.zip
 amtlib.zip
-amtrak.zip
 amy.zip
 anastasia.zip
 anderson.zip
@@ -435,7 +427,6 @@ ascidicolous.zip
 asd.zip
 asdevelupdates.zip
 asdf.zip
-asdfg.zip
 asignment.zip
 askai.zip
 asmr.zip
@@ -490,7 +481,6 @@ autoupdate.zip
 av1.zip
 avax.zip
 avendrealouer.zip
-avery.zip
 avg.zip
 avirus.zip
 avl.zip
@@ -591,7 +581,6 @@ backuptijuana.zip
 backuptrucking.zip
 backupwashwatch.zip
 badidea.zip
-baesystems.zip
 bahis.zip
 baidu.zip
 bak.zip
@@ -756,7 +745,6 @@ bmvwin64.zip
 bmw.zip
 bmwleak.zip
 bnc.zip
-bnet.zip
 bni-rb-eventos.zip
 bnpl.zip
 bo160.zip
@@ -897,7 +885,6 @@ c6istario.zip
 cabal.zip
 cable-27-37.zip
 caches.zip
-caci.zip
 cackle.zip
 cafesperl-malware.zip
 caiso.zip
@@ -1075,7 +1062,6 @@ citysense.zip
 cknvwin32.zip
 clam.zip
 claremontchicanolatinostudiesbackup.zip
-clasen.zip
 clayton.zip
 cldstandardscouncilupdates.zip
 cleaned.zip
@@ -1103,7 +1089,6 @@ clmm.zip
 clone.zip
 cloud.zip
 cloudautomation.zip
-cloudbackup.zip
 cloudbox.zip
 cloudcomputing.zip
 cloudflare.zip
@@ -1199,7 +1184,6 @@ config.zip
 configs.zip
 configuration.zip
 configurations.zip
-confirmation.zip
 conflicker.zip
 confluence.zip
 congress.zip
@@ -1230,7 +1214,6 @@ coopersafety.zip
 copart.zip
 copilot.zip
 coran.zip
-corbin.zip
 coredump.zip
 coreweave.zip
 corey.zip
@@ -1283,7 +1266,6 @@ cram.zip
 crap.zip
 crashed.zip
 crazygames.zip
-crdf.zip
 crea-pr-malware.zip
 creampie.zip
 createfile.zip
@@ -1330,7 +1312,6 @@ cs2.zip
 csaerotherm-updates.zip
 csgo.zip
 csgohacks.zip
-csgoskins.zip
 cshs.zip
 csmc.zip
 csmsmagazine-letter.zip
@@ -1382,7 +1363,6 @@ cysiam.zip
 czar.zip
 d0c.zip
 d0wnload.zip
-daemon.zip
 daftar-letter.zip
 daftpunk.zip
 daliansky-letter.zip
@@ -1496,7 +1476,6 @@ degen.zip
 dekkia.zip
 delawarebusinessnow-malware.zip
 deleted.zip
-deliverable.zip
 deliverables.zip
 dell.zip
 dellarepubblicapictures.zip
@@ -1758,7 +1737,6 @@ dpkg.zip
 dpsu-pictures.zip
 draff.zip
 dragos.zip
-drat.zip
 drawings.zip
 drbrown.zip
 dreambox.zip
@@ -1952,7 +1930,6 @@ eternal.zip
 eternalblue.zip
 eth.zip
 eth90.zip
-ethan.zip
 etherium.zip
 ethglobal.zip
 ethos.zip
@@ -2054,15 +2031,12 @@ expense-report.zip
 expense-reports.zip
 expenses.zip
 experimental.zip
-expiring.zip
-exploit.zip
 exploits.zip
 exploitz.zip
 explosion.zip
 export-file.zip
 exporte.zip
 exportfile.zip
-exportfiles.zip
 express.zip
 extracted.zip
 extractify.zip
@@ -2107,7 +2081,6 @@ faturas.zip
 fb.zip
 fb2.zip
 fbi.zip
-fcc.zip
 fctpwin64.zip
 fcu.zip
 fedex.zip
@@ -2218,7 +2191,6 @@ firstontario.zip
 firstontariocreditunion.zip
 firstsecurityservices-letter.zip
 fisch.zip
-fivem.zip
 fivestarflags-internet.zip
 fixpack.zip
 fiyat.zip
@@ -2317,7 +2289,6 @@ full.zip
 fullversion.zip
 fullz.zip
 fumo.zip
-funnymemes.zip
 furcadia.zip
 furkan.zip
 furries.zip
@@ -2528,7 +2499,6 @@ groupy.zip
 grow.zip
 growers.zip
 grs.zip
-grundprin.zip
 grzelak.zip
 gsaibinternet.zip
 gta.zip
@@ -2732,7 +2702,6 @@ hunts.zip
 hurry.zip
 hvfetdfbw0.zip
 hwinfo.zip
-hyperlink.zip
 hyperwallet.zip
 hypnocubeupdates.zip
 hytale.zip
@@ -2798,7 +2767,6 @@ impacket.zip
 impactgamersnudes.zip
 implan.zip
 importantdocuments.zip
-importantfile.zip
 importantfiles.zip
 importantupdate.zip
 impotsmalware.zip
@@ -2990,7 +2958,6 @@ itarian.zip
 ithelp.zip
 itinerary.zip
 itunes.zip
-iw4.zip
 iyoshok.zip
 izip.zip
 j.zip
@@ -3012,7 +2979,6 @@ janzen.zip
 jar.zip
 jarringeffectsupdates.zip
 jasper.zip
-jav.zip
 java.zip
 java8.zip
 javadownload.zip
@@ -3213,11 +3179,9 @@ l-co-updates.zip
 l.e.i.exe.zip
 l.e.i.nudes.zip
 l.e.i.pictures.zip
-l.zip
 l337.zip
 l33t.zip
 labcorp.zip
-labresults.zip
 labrys.zip
 labrysgroup.zip
 labrystech.zip
@@ -3226,7 +3190,6 @@ lach.zip
 lachlan.zip
 lafox.zip
 lambda.zip
-lambo.zip
 lampo.zip
 lansweeper.zip
 laravel.zip
@@ -3247,7 +3210,6 @@ latest.zip
 latestbuild.zip
 latestpatch.zip
 latestrelease.zip
-latestupdate.zip
 latestversion.zip
 latvija.zip
 launcher.zip
@@ -3280,7 +3242,6 @@ leethax.zip
 leflochreport-pictures.zip
 legaldoc.zip
 legaldocs.zip
-legaldocuments.zip
 legalfiles.zip
 legalshield.zip
 legaltech.zip
@@ -3364,7 +3325,6 @@ letterthreebrothersgrim.zip
 letterthyrocare.zip
 letterweluse.zip
 letztemahnung.zip
-lev.zip
 levolor.zip
 levy.zip
 lewd.zip
@@ -4013,7 +3973,6 @@ ncsc.zip
 nda.zip
 ndiprintmaking-exe.zip
 ndsc-dc2.zip
-neal.zip
 near-art.zip
 neet.zip
 neighborhood.zip
@@ -4046,7 +4005,6 @@ new-file.zip
 new-folder.zip
 new-invoice.zip
 new.zip
-newarchive.zip
 newfolder1.zip
 newrangeroversportpictures.zip
 news-publisher.zip
@@ -4057,7 +4015,6 @@ newsletter.zip
 newspublisher.zip
 newtextdocument.zip
 nexpose.zip
-nexthop.zip
 nextinsurance.zip
 nextiva.zip
 nfneuronupdates.zip
@@ -4068,7 +4025,6 @@ ngnj.zip
 nguyen.zip
 nhs.zip
 niamhastra.zip
-nic.zip
 nicememe.zip
 nicolo.zip
 nietz.zip
@@ -4096,7 +4052,6 @@ nmap.zip
 nmmccinternet.zip
 no-virus.zip
 noarch.zip
-nod32.zip
 nod3z3r0.zip
 nod3z3ro.zip
 nod3zero.zip
@@ -4234,7 +4189,6 @@ nudeswisconsinlibraries.zip
 nudesyacinekateb.zip
 nukes.zip
 nulled.zip
-nupkg.zip
 nuri.zip
 nutanix.zip
 nvim.zip
@@ -4259,7 +4213,6 @@ odata.zip
 oddities.zip
 ods.zip
 odt.zip
-ody.zip
 oebb.zip
 oerproject.zip
 office-download.zip
@@ -5284,7 +5237,6 @@ secure-pdf.zip
 secure.zip
 secureattachment.zip
 securebackup.zip
-secured.zip
 securedfile.zip
 securedfiles.zip
 securedownload.zip
@@ -5327,7 +5279,6 @@ senha.zip
 senhas.zip
 seniorclassaward-malware.zip
 sensilla.zip
-sentinel.zip
 sentinelone.zip
 sentineloneinstaller.zip
 seo-agentur.zip
@@ -5349,7 +5300,6 @@ serviceagreement.zip
 servicepack.zip
 servlet.zip
 setec.zip
-settings.zip
 setu.zip
 setup-files.zip
 setup1.zip
@@ -5396,7 +5346,6 @@ sheetmusic.zip
 sheikh.zip
 shell32.zip
 sheney.zip
-shep.zip
 sheppardrobson.zip
 shib.zip
 shielder.zip
@@ -5612,7 +5561,6 @@ sqldump.zip
 sqlite.zip
 src.zip
 srcfiles.zip
-srcity.zip
 srcs.zip
 srrdb.zip
 srv-acc-ex-01.zip
@@ -5696,7 +5644,6 @@ stundenplan.zip
 subb.zip
 sublime.zip
 subnets.zip
-subor.zip
 subpoena.zip
 subscribe.zip
 subscription.zip
@@ -5747,7 +5694,6 @@ synology.zip
 synopsys.zip
 synovus.zip
 syntegon.zip
-synth.zip
 sys.zip
 sysconfig.zip
 sysdiagnose.zip
@@ -5982,7 +5928,6 @@ tornado.zip
 torrent.zip
 toss.zip
 totally-not-a-virus.zip
-totally-not-malware.zip
 totallyinnocentfile.zip
 totallylegit.zip
 totallynotatrojan.zip
@@ -6867,7 +6812,6 @@ yellowcabvictoria-backup.zip
 yeo.zip
 yerdon.zip
 yesjon.zip
-yiff.zip
 yikes.zip
 yip.zip
 ykk.zip
@@ -6982,7 +6926,6 @@ zippyshare.zip
 ziprecruiter.zip
 zips.zip
 zipworld.zip
-zipx.zip
 zipzap.zip
 zkp.zip
 zlib.zip
