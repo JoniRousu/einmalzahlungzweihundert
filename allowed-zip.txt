@@ -1,4 +1,38 @@
+# Eine Liste mit .zip-Domains die aus der Blockliste entfernt wurden.
+# Die Liste stammt aus dem Github-Repository https://github.com/trickest/zip
+# und wird von mir modifiziert.
+# Homepage: https://www.einmalzahlungzweihundert.de/
+# Zuletzt aktualisiert: 24.05.2023 10:51 Uhr
+
+# MIT License
+# 
+# Copyright (c) 2023 Trickest
+# 
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+# 
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+# 
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+1984.zip
+2022.zip
+20230609.zip
+360.zip
+8bit.zip
 adware.zip
+aetools.zip
 affine.zip
 agentinstall.zip
 aggiornamento.zip
@@ -17,6 +51,7 @@ amazonorder.zip
 amazons3.zip
 anime.zip
 annotations.zip
+annyhentai.zip
 anydesk.zip
 aoel.zip
 aphelios.zip
@@ -67,22 +102,40 @@ chall.zip
 cheatsheet.zip
 chromeos.zip
 chus.zip
+cjs.zip
 clickhere.zip
 clint.zip
+cloudlogs.zip
 collection.zip
+combined.zip
 commits.zip
 community.zip
 compiled.zip
 compressme.zip
 computer.zip
+connectnow.zip
+conscia.zip
+consolidated-statement.zip
+constellium.zip
+consul.zip
+controlup.zip
 counter-strike.zip
+coverletter.zip
+covid.zip
 cows.zip
+cptn.zip
+creditscore.zip
+creds.zip
+crow.zip
 cui.zip
 cum.zip
+currentversion.zip
 cust.zip
 customer-data.zip
 damned.zip
 dampfkadse.zip
+dangerous-attachment.zip
+dario.zip
 data1.zip
 database.zip
 dataleak.zip
@@ -114,7 +167,9 @@ dodgy.zip
 dokumentit.zip
 doom.zip
 downioad.zip
+download-latest.zip
 download.zip
+download0.zip
 downloadhub.zip
 downloadthisfile.zip
 drawing1.zip
@@ -128,6 +183,7 @@ edson.zip
 emil.zip
 emile.zip
 encoded.zip
+ep2.zip
 epicgames.zip
 esimerkki.zip
 eumel.zip
@@ -147,15 +203,23 @@ final.zip
 financialstatement.zip
 finanzen.zip
 find.zip
+flare.zip
 flightmanifest.zip
 florida.zip
+folder1.zip
+foobar.zip
+forensic.zip
+foreskin.zip
 fortnite.zip
+fortytwo.zip
 fox.zip
 foxcloud.zip
+free-windows.zip
 freebitcoin.zip
 freecrack.zip
 freemalware.zip
 freemodedesigns.zip
+freerobux.zip
 freeversion.zip
 friendshipcastle.zip
 furryporn.zip
@@ -163,6 +227,7 @@ fxserver.zip
 g.zip
 gag.zip
 gap.zip
+garbage.zip
 gas.zip
 gaurav.zip
 gayagenda.zip
@@ -181,6 +246,7 @@ govtech.zip
 grumble.zip
 gshep.zip
 gsheps.zip
+gsoc.zip
 guym.zip
 hacg.zip
 hacks.zip
@@ -200,12 +266,14 @@ horvath.zip
 housejohn.zip
 htdocs.zip
 idol.zip
+ilikepie.zip
 ilvi.zip
 important.zip
 inet.zip
 inferi.zip
 infosecurity.zip
 installation.zip
+installersetup.zip
 instant.zip
 internet.zip
 iomega.zip
@@ -215,14 +283,17 @@ iterator.zip
 jackholmes.zip
 jake.zip
 jareds-shameful-secrets.zip
+javasetup.zip
 joel.zip
 johann.zip
 jonatas.zip
 jp.zip
+jpn.zip
 jrdn.zip
 juli.zip
 juno.zip
 justin.zip
+kabelkom.zip
 kaczka.zip
 kai.zip
 kepek.zip
@@ -234,13 +305,23 @@ kimbab.zip
 kini.zip
 klonowski.zip
 komplett.zip
+kontoauszug.zip
+krux.zip
 kun.zip
 kurd.zip
 kurtis.zip
 kwak.zip
 l51.zip
+lain.zip
+leagueoflegends.zip
+leaked.zip
+leakednudes.zip
+leek.zip
+legaldocument.zip
+legit.zip
 lenny.zip
 lenze.zip
+leonard.zip
 liamg.zip
 linkingpark-numb.zip
 linkingpark.zip
@@ -255,10 +336,12 @@ lyman.zip
 lz77.zip
 m3u.zip
 m4v.zip
+maddy.zip
 mailbomb.zip
 maillog.zip
 maimai.zip
 makea.zip
+malware-archive.zip
 malwares.zip
 manitu.zip
 mannydmorales.zip
@@ -306,17 +389,22 @@ naej.zip
 naked-photos.zip
 nanka.zip
 naveen.zip
+neko.zip
 net48.zip
 neutrinoguy.zip
 newbackup.zip
 newfile.zip
 nick.zip
+niggers.zip
 nils.zip
 njones.zip
 nmsl.zip
 noga.zip
+nomad.zip
+not-a-virus.zip
 notsus.zip
 novirus.zip
+ntv.zip
 nudeleak.zip
 nudes.zip
 nudeski.zip
@@ -335,9 +423,16 @@ okta.zip
 onboarding-forms.zip
 onetap.zip
 order.zip
+ordner.zip
 orma.zip
+p0c.zip
+packer.zip
+packets.zip
+part0.zip
 passw0rd.zip
 passw0rds.zip
+password.zip
+passwordisinfected.zip
 payload.zip
 paymentinfo.zip
 payrolls.zip
@@ -345,12 +440,14 @@ payslip.zip
 pdfviewer.zip
 pea.zip
 phantoma.zip
+phished.zip
 photocollection.zip
 piaggio.zip
 pioneer-inc.nudes.zip
 pioneerinc.nudes.zip
 piotr.zip
 piyush.zip
+plex.zip
 pod.zip
 podcast.zip
 pokemon.zip
@@ -366,6 +463,7 @@ proxmox.zip
 psalm.zip
 ptr.zip
 purr.zip
+pwsh.zip
 qakbot.zip
 rc-1.zip
 rc0.zip
@@ -381,6 +479,7 @@ remotesupport.zip
 report-final.zip
 repp.zip
 result.zip
+reuben.zip
 revil.zip
 ricevuta.zip
 ricevute.zip
@@ -392,6 +491,7 @@ rootkit.zip
 rpkg.zip
 rsec.zip
 rshell.zip
+rsyd.zip
 rubi.zip
 ruby-rd.nudes.zip
 rubyrd.nudes.zip
@@ -407,9 +507,18 @@ scp.zip
 scummvm.zip
 seafoam.zip
 secret.zip
+securityresearch.zip
+securityresponse.zip
 securityupdates.zip
 semester.zip
+semesterbilder.zip
+send.zip
+sendfile.zip
+sendyour.zip
 sentinelone-installer.zip
+sese.zip
+setup-wizard.zip
+setup.zip
 seven.zip
 sfeir.zip
 shopware.zip
@@ -423,7 +532,9 @@ snafu.zip
 snowball.zip
 socks4.zip
 socks5.zip
+sodium.zip
 somefile.zip
+sommar.zip
 soundcloud.zip
 spacey.zip
 speedrun.zip
@@ -436,6 +547,7 @@ stems.zip
 steph.zip
 stip.zip
 storm.zip
+streamit.zip
 stuxnet.zip
 surfshark.zip
 sus.zip
@@ -462,8 +574,12 @@ tk0.zip
 tmp.zip
 tobi.zip
 today.zip
+traversal.zip
+trojanhorse.zip
 trollface.zip
+tryme.zip
 tsundere.zip
+ubuntuiso.zip
 umu.zip
 unarchive.zip
 unitypackage.zip
@@ -484,10 +600,24 @@ v04.zip
 v07.zip
 v08.zip
 v1248.zip
+v14.zip
+v16.zip
 v17.zip
+v18.zip
+v1ru5.zip
 v27.zip
+vagrant.zip
 varberg.zip
+vertriebsautomatisierung.zip
+vfsh.zip
+video2.zip
 virtua.zip
+vlan.zip
+vlc.zip
+voicemail.zip
+voicerecording.zip
+vulnerability.zip
+vxunderground-db.zip
 wachtwoorden.zip
 walkthrough.zip
 warc.zip
@@ -510,6 +640,7 @@ woori.zip
 workbook1.zip
 workfiles.zip
 worldwideweb.zip
+xbytez.zip
 yahoo.zip
 yourmom.zip
 yourmum.zip
@@ -519,8 +650,3 @@ zeroday.zip
 zmail.zip
 zoe.zip
 zone.zip
-8bit.zip
-360.zip
-1984.zip
-2022.zip
-20230609.zip

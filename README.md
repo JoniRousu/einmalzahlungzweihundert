@@ -18,7 +18,7 @@ Bei [Github](https://github.com/trickest/zip/tree/main) gibt es ein Repo mit ein
 
 ---
 
-### 🕳 Zip-Domain Adlist: [https://www.einmalzahlungzweihundert.de/bl-zip.txt](https://www.einmalzahlungzweihundert.de/bl-zip.txt)
+### 🕳 Zip-Domain Adlist: [https://zip.einmalzahlungzweihundert.de/](https://zip.einmalzahlungzweihundert.de/)
 
 ### 🕳 Ein&shy;mal&shy;zah&shy;lung Adlist: [https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt](https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt)
 
