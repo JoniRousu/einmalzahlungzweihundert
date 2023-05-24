@@ -2,7 +2,8 @@
 # Die Liste stammt aus dem Github-Repository https://github.com/trickest/zip
 # und wird von mir modifiziert.
 # Homepage: https://www.einmalzahlungzweihundert.de/
-# Zuletzt aktualisiert: 24.05.2023 10:51 Uhr
+# Zuletzt aktualisiert: 24.05.2023 15:40 Uhr
+# Datenstand Trickest: 24.05.2023 10:08 Uhr
 
 # MIT License
 # 
@@ -26,11 +27,18 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+0-beta.zip
+1-win64.zip
+1-x64.zip
+114514.zip
 1984.zip
 2022.zip
 20230609.zip
 360.zip
+64bit.zip
 8bit.zip
+absolute.zip
+acfun.zip
 adware.zip
 aetools.zip
 affine.zip
@@ -49,6 +57,7 @@ alvar.zip
 alyx.zip
 amazonorder.zip
 amazons3.zip
+amtrak.zip
 anime.zip
 annotations.zip
 annyhentai.zip
@@ -66,14 +75,17 @@ archlve.zip
 arjan.zip
 arquivo.zip
 arsh.zip
+asdfg.zip
 assignment.zip
 atf.zip
 auguri.zip
 ausprin.zip
 austin-clothing-co.nudes.zip
+avery.zip
 bab.zip
 backup.zip
 backupdata.zip
+baesystems.zip
 baggett.zip
 bank-statement.zip
 bankinfo.zip
@@ -88,6 +100,7 @@ bilger.zip
 binance.zip
 bitches.zip
 blahaj.zip
+bnet.zip
 bomb.zip
 bonk.zip
 bonusbrief.zip
@@ -96,6 +109,7 @@ bootloader.zip
 botnet.zip
 boxers.zip
 braguette.zip
+caci.zip
 campingphotos.zip
 chal.zip
 chall.zip
@@ -103,8 +117,10 @@ cheatsheet.zip
 chromeos.zip
 chus.zip
 cjs.zip
+clasen.zip
 clickhere.zip
 clint.zip
+cloudbackup.zip
 cloudlogs.zip
 collection.zip
 combined.zip
@@ -113,25 +129,30 @@ community.zip
 compiled.zip
 compressme.zip
 computer.zip
+confirmation.zip
 connectnow.zip
 conscia.zip
 consolidated-statement.zip
 constellium.zip
 consul.zip
 controlup.zip
+corbin.zip
 counter-strike.zip
 coverletter.zip
 covid.zip
 cows.zip
 cptn.zip
+crdf.zip
 creditscore.zip
 creds.zip
 crow.zip
+csgoskins.zip
 cui.zip
 cum.zip
 currentversion.zip
 cust.zip
 customer-data.zip
+daemon.zip
 damned.zip
 dampfkadse.zip
 dangerous-attachment.zip
@@ -147,6 +168,7 @@ de-download-file.zip
 decode.zip
 defender365.zip
 deflate.zip
+deliverable.zip
 denk.zip
 deploy.zip
 derg.zip
@@ -172,6 +194,7 @@ download.zip
 download0.zip
 downloadhub.zip
 downloadthisfile.zip
+drat.zip
 drawing1.zip
 driver64.zip
 duk.zip
@@ -186,13 +209,18 @@ encoded.zip
 ep2.zip
 epicgames.zip
 esimerkki.zip
+ethan.zip
 eumel.zip
 ev1l.zip
 evidence.zip
+expiring.zip
+exploit.zip
+exportfiles.zip
 extracta.zip
 factuur.zip
 favicon.zip
 faxes.zip
+fcc.zip
 fichiers.zip
 ficken.zip
 file-01.zip
@@ -203,6 +231,7 @@ final.zip
 financialstatement.zip
 finanzen.zip
 find.zip
+fivem.zip
 flare.zip
 flightmanifest.zip
 florida.zip
@@ -222,6 +251,7 @@ freemodedesigns.zip
 freerobux.zip
 freeversion.zip
 friendshipcastle.zip
+funnymemes.zip
 furryporn.zip
 fxserver.zip
 g.zip
@@ -244,6 +274,7 @@ gorlani.zip
 goteborg.zip
 govtech.zip
 grumble.zip
+grundprin.zip
 gshep.zip
 gsheps.zip
 gsoc.zip
@@ -265,10 +296,12 @@ homo.zip
 horvath.zip
 housejohn.zip
 htdocs.zip
+hyperlink.zip
 idol.zip
 ilikepie.zip
 ilvi.zip
 important.zip
+importantfile.zip
 inet.zip
 inferi.zip
 infosecurity.zip
@@ -280,9 +313,11 @@ iomega.zip
 ipv4.zip
 irpf.zip
 iterator.zip
+iw4.zip
 jackholmes.zip
 jake.zip
 jareds-shameful-secrets.zip
+jav.zip
 javasetup.zip
 joel.zip
 johann.zip
@@ -311,17 +346,23 @@ kun.zip
 kurd.zip
 kurtis.zip
 kwak.zip
+l.zip
 l51.zip
+labresults.zip
 lain.zip
+lambo.zip
+latestupdate.zip
 leagueoflegends.zip
 leaked.zip
 leakednudes.zip
 leek.zip
 legaldocument.zip
+legaldocuments.zip
 legit.zip
 lenny.zip
 lenze.zip
 leonard.zip
+lev.zip
 liamg.zip
 linkingpark-numb.zip
 linkingpark.zip
@@ -389,16 +430,21 @@ naej.zip
 naked-photos.zip
 nanka.zip
 naveen.zip
+neal.zip
 neko.zip
 net48.zip
 neutrinoguy.zip
+newarchive.zip
 newbackup.zip
 newfile.zip
+nexthop.zip
+nic.zip
 nick.zip
 niggers.zip
 nils.zip
 njones.zip
 nmsl.zip
+nod32.zip
 noga.zip
 nomad.zip
 not-a-virus.zip
@@ -409,9 +455,11 @@ nudeleak.zip
 nudes.zip
 nudeski.zip
 nuke.zip
+nupkg.zip
 nyxb.zip
 o365update.zip
 octyl.zip
+ody.zip
 offerletter.zip
 offert.zip
 offerta.zip
@@ -507,6 +555,7 @@ scp.zip
 scummvm.zip
 seafoam.zip
 secret.zip
+secured.zip
 securityresearch.zip
 securityresponse.zip
 securityupdates.zip
@@ -515,12 +564,15 @@ semesterbilder.zip
 send.zip
 sendfile.zip
 sendyour.zip
+sentinel.zip
 sentinelone-installer.zip
 sese.zip
+settings.zip
 setup-wizard.zip
 setup.zip
 seven.zip
 sfeir.zip
+shep.zip
 shopware.zip
 sidd.zip
 sigh.zip
@@ -540,6 +592,7 @@ spacey.zip
 speedrun.zip
 sponsorship.zip
 sqm.zip
+srcity.zip
 sriganesh.zip
 stdout.zip
 steaminstaller.zip
@@ -549,11 +602,13 @@ stip.zip
 storm.zip
 streamit.zip
 stuxnet.zip
+subor.zip
 surfshark.zip
 sus.zip
 svensson.zip
 sverige.zip
 sylvain.zip
+synth.zip
 syslog.zip
 takea.zip
 tenshi.zip
@@ -574,6 +629,7 @@ tk0.zip
 tmp.zip
 tobi.zip
 today.zip
+totally-not-malware.zip
 traversal.zip
 trojanhorse.zip
 trollface.zip
@@ -642,11 +698,13 @@ workfiles.zip
 worldwideweb.zip
 xbytez.zip
 yahoo.zip
+yiff.zip
 yourmom.zip
 yourmum.zip
 yumi.zip
 zad.zip
 zeroday.zip
+zipx.zip
 zmail.zip
 zoe.zip
 zone.zip
