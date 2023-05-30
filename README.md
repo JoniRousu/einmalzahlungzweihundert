@@ -12,13 +12,15 @@ Oder du suchst meine *Adlist für Pi-Hole*? 🕳 [https://&shy;www.&shy;ein&shy;
 
 Google hat zwei neue [Top-Level-Domains](https://de.wikipedia.org/wiki/Top-Level-Domain) ins Leben gerufen: [``.zip``](https://domains.google/tld/zip/) und [``.mov``](https://domains.google/tld/mov/).
 
-Das beide sehr beliebte Dateiformate sind ist vielen bekannt. Gleichzeitig ist somit die Phishing- und Malware-Gefahr extrem groß. Daher sind beide TLD in meinem Pi-Hole geblacklistet. Leider gibt es (noch) keine Möglichkeit eine Adlist mit nur TLDs zu erstellen.
+Das beide sehr beliebte Dateiformate sind ist vielen bekannt. Gleichzeitig ist somit die Phishing- und Malware-Gefahr extrem groß. Daher ist ``.mov`` in meinem Pi-Hole geblacklistet, für ``.zip`` habe ich eine Adlist (siehe unten). <del>Leider gibt es (noch) keine Möglichkeit eine Adlist mit nur TLDs zu erstellen.</del> Mit Version v5.17 von Pi-Hole ist es möglich auch nur TLD in Listen zu blockieren.
 
 Bei [Github](https://github.com/trickest/zip/tree/main) gibt es ein Repo mit einer Liste mit bisher entdeckten ``.zip`` Domains und ich habe daraus eine Adlist für Pi-Hole erstellt.
 
 ---
 
 ### 🕳 Zip-Domain Adlist: [https://zip.einmalzahlungzweihundert.de/](https://zip.einmalzahlungzweihundert.de/)
+
+### 🕳 Mov-Domain Adlist: [https://www.einmalzahlungzweihundert.de/bl-mov.txt](https://www.einmalzahlungzweihundert.de/bl-mov.txt)
 
 ### 🕳 Ein&shy;mal&shy;zah&shy;lung Adlist: [https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt](https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt)
 

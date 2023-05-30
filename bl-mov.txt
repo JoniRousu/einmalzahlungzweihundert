@@ -1,0 +1,7 @@
+# Eine Liste mit möglichen bösen .mov-Domains
+# Bisher noch keine Liste leicht verfügbar.
+# Deshalb wird zunächst die gesamte TLD geblockt.
+# Homepage: https://www.einmalzahlungzweihundert.de/
+# Zuletzt aktualisiert: 30.05.2023 09:55 Uhr
+
+||mov^
