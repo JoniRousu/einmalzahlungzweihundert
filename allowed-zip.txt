@@ -2,8 +2,8 @@
 # Die Liste stammt aus dem Github-Repository https://github.com/trickest/zip
 # und wird von mir modifiziert.
 # Homepage: https://www.einmalzahlungzweihundert.de/
-# Zuletzt aktualisiert: 24.05.2023 15:40 Uhr
-# Datenstand Trickest: 24.05.2023 10:08 Uhr
+# Zuletzt aktualisiert: 14.07.2023 11:31 Uhr
+# Datenstand Trickest: 14.07.2023 10:12 Uhr
 
 # MIT License
 # 
@@ -708,3 +708,17 @@ zipx.zip
 zmail.zip
 zoe.zip
 zone.zip
+denim&co.exe.zip
+denim&co.nudes.zip
+denim&co.pictures.zip
+denim-&-co.exe.zip
+denim-&-co.nudes.zip
+denim-&-co.pictures.zip
+g.h.-bass-&-co.nudes.zip
+g.h.bass&co.nudes.zip
+letterreed-&-barton.zip
+line-&-dotpictures.zip
+liz&co.nudes.zip
+liz-&-co.nudes.zip
+max-&-mia.zip
+slatkin&co.nudes.zip
