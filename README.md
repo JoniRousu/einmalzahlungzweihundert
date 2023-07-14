@@ -12,7 +12,7 @@ Oder du suchst meine *Adlist für Pi-Hole*? 🕳 [https://&shy;www.&shy;ein&shy;
 
 Google hat zwei neue [Top-Level-Domains](https://de.wikipedia.org/wiki/Top-Level-Domain) ins Leben gerufen: [``.zip``](https://domains.google/tld/zip/) und [``.mov``](https://domains.google/tld/mov/).
 
-Das beide sehr beliebte Dateiformate sind ist vielen bekannt. Gleichzeitig ist somit die Phishing- und Malware-Gefahr extrem groß. Daher ist ``.mov`` in meinem Pi-Hole geblacklistet, für ``.zip`` habe ich eine Adlist (siehe unten). <del>Leider gibt es (noch) keine Möglichkeit eine Adlist mit nur TLDs zu erstellen.</del> Mit Version v5.17 von Pi-Hole ist es möglich auch nur TLD in Listen zu blockieren.
+Das beide sehr beliebte Dateiformate sind ist vielen bekannt. Gleichzeitig ist somit die Phishing- und Malware-Gefahr extrem groß. Daher ist ``.mov`` in meinem Pi-Hole geblacklistet, für ``.zip`` habe ich eine Adlist (siehe unten). Ab Version v5.17 von Pi-Hole ist es möglich auch nur TLD in Listen zu blockieren.
 
 Bei [Github](https://github.com/trickest/zip/tree/main) gibt es ein Repo mit einer Liste mit bisher entdeckten ``.zip`` Domains und ich habe daraus eine Adlist für Pi-Hole erstellt.
 
@@ -80,7 +80,7 @@ Die Auszahlung kam am Dienstag, den 21.03.2023. Es dauerte also 3-4 Werktage, bi
 
 Hier zwei Seiten, die sich mit der generellen Thematik auseinandersetzen: [keinmalzahlung200.de](https://www.keinmalzahlung200.de/) und [einmalzahlung.wtf](https://einmalzahlung.wtf/).
 
-Auf der offiziellen Seite <del>gibt</del> gab es einen [Warteraum](Warteraum) 🤦
+Auf der offiziellen Seite gab es einen [Warteraum](Warteraum) 🤦
 
 Zur Beantragung wird die [BundID](https://id.bund.de/de) benötigt.
 Dies ist mit viel Kritik verbunden, da dieses Konto zwangsweise angelegt werden muss und persönliche Daten erhoben werden müssen, die in Augen vieler nicht notwendig wären. Dazu zähle ich mich auch.
