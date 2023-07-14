@@ -5812,9 +5812,6 @@ lxesgqastgcorev1.zip
 lyft.zip
 lyle.zip
 lynred.zip
-lyons-/-hit-ent.nudes.zip
-lyons/hitent.nudes.zip
-lyons/hitent.pictures.zip
 lystic.zip
 lz4.zip
 lzma.zip
@@ -9273,7 +9270,6 @@ signature-required.zip
 signed-nda.zip
 sigsauer.zip
 siko.zip
-silence+noisepictures.zip
 siliconsorcerer.zip
 siligurijournal-letter.zip
 silkies-letter.zip
