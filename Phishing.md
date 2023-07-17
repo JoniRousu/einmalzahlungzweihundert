@@ -1,6 +1,6 @@
 # 😈 Potentielle Phishing Webseiten
 
-Diese Webseiten habe ich mit Hilfe des *Typo Tools* von [dnslytics.com](https://dnslytics.com/domain-typos) gefunden. Sie sind registriert und bieten hohes Potential für Phishing, da es häufige Tippfehler der echten Domain [einmalzahlung200.de](https://einmalzahlung200.de) sind.
+Diese Webseiten habe ich mit Hilfe des *Typo Tools* von [dnslytics.com](https://dnslytics.com/domain-typos) und des [*Typosquatting finders*](https://typosquatting-finder.circl.lu/) gefunden. Sie sind registriert und bieten hohes Potential für Phishing, da es häufige Tippfehler der echten Domain [einmalzahlung200.de](https://einmalzahlung200.de) sind.
 
 Es sind mittlerweile 100 Stück 😳
 
