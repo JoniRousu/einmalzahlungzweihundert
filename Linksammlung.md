@@ -30,6 +30,7 @@ Hier ein Linksammlung mit "Einmalzahlungsseiten" auf die ich selbst gestoßen bi
 ## 🤨 Andere Seiten
 
 - [https://einmalzahlung500.de/](https://einmalzahlung500.de/)
+- [https://einmalzahlung200.de.cc/](https://einmalzahlung200.de.cc/)
 
 ---
 
