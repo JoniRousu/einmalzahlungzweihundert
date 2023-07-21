@@ -4,7 +4,7 @@
 # Die entfernten Domains sind hier aufgelistet: https://www.einmalzahlungzweihundert.de/allowed-zip.txt
 # Homepage: https://www.einmalzahlungzweihundert.de/
 # Zuletzt aktualisiert: 21.07.2023 11:13 Uhr
-# Datenstand Trickest: 14.07.2023 10:14 Uhr
+# Datenstand Trickest: 21.07.2023 10:14 Uhr
 
 # MIT License
 # 
