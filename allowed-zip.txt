@@ -2,8 +2,8 @@
 # Die Liste stammt aus dem Github-Repository https://github.com/trickest/zip
 # und wird von mir modifiziert.
 # Homepage: https://www.einmalzahlungzweihundert.de/
-# Zuletzt aktualisiert: 14.07.2023 11:31 Uhr
-# Datenstand Trickest: 14.07.2023 10:12 Uhr
+# Zuletzt aktualisiert: 05.08.2023 14:47 Uhr
+# Datenstand Trickest: 05.08.2023 10:15 Uhr
 
 # MIT License
 # 
@@ -726,3 +726,4 @@ lyons-/-hit-ent.nudes.zip
 lyons/hitent.nudes.zip
 lyons/hitent.pictures.zip
 silence+noisepictures.zip
+installermargareto'leary.zip
