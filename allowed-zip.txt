@@ -513,6 +513,7 @@ ptr.zip
 purr.zip
 pwsh.zip
 qakbot.zip
+rapha.zip
 rc-1.zip
 rc0.zip
 rclone.zip
