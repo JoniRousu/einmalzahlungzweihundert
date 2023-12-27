@@ -9,7 +9,6 @@ Hier ein Linksammlung mit "Einmalzahlungsseiten" auf die ich selbst gestoßen bi
 - [https://einmaalzahlung200.de/](https://einmaalzahlung200.de/)
 - [https://einmalzahlung250.de/](https://einmalzahlung250.de/)
 - [https://einmalzalung200.de/](https://einmalzalung200.de/)
-- [https://einmahlzahlung200.de/](https://einmahlzahlung200.de/)
 - [https://200einmalzahlung.de/](https://200einmalzahlung.de/)
 
 ---
@@ -23,7 +22,6 @@ Hier ein Linksammlung mit "Einmalzahlungsseiten" auf die ich selbst gestoßen bi
 - [http://einmalzahlung600.de/](http://einmalzahlung600.de/)
 - [http://einmalzahlung800.de/](http://einmalzahlung800.de/)
 - [http://einmalzahlung1000.de/](http://einmalzahlung1000.de/)
-- [http://einmalzahlung.com/](http://einmalzahlung.com/)
 
 ---
 
