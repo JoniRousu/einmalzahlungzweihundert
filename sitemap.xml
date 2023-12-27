@@ -24,7 +24,7 @@
 </url>
 <url>
   <loc>https://www.einmalzahlungzweihundert.de/bl-zip.txt</loc>
-  <lastmod>2023-08-18T15:55:00+00:00</lastmod>
+  <lastmod>2023-12-27T19:30:00+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
@@ -45,6 +45,11 @@
 <url>
   <loc>https://www.einmalzahlungzweihundert.de/antrag</loc>
   <lastmod>2023-03-16T13:15:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.einmalzahlungzweihundert.de/AkteRaphael</loc>
+  <lastmod>2023-12-27T19:30:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
