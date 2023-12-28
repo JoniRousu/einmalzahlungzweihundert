@@ -3,7 +3,7 @@
 # und wird von mir modifiziert und unter https://zip.einmalzahlungzweihundert.de/ bereitgestellt.
 # Die entfernten Domains sind hier aufgelistet: https://www.einmalzahlungzweihundert.de/allowed-zip.txt
 # Homepage: https://www.einmalzahlungzweihundert.de/
-# Zuletzt aktualisiert: 18.08.2023 15:53 Uhr
+# Zuletzt aktualisiert: 27.12.2023 19:30 Uhr
 # Datenstand Trickest: 09.08.2023 10:17 Uhr
 
 # MIT License
