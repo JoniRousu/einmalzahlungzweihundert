@@ -2,7 +2,7 @@
 
 Vielleicht suchst du [www.einmalzahlung200.de](https://www.einmalzahlung200.de/), bzw. [antrag.einmalzahlung200.de](https://antrag.einmalzahlung200.de/)?
 
-Das ist tatsächlich die offizielle Domain des Bundesministeriums für Bildung und Forschung zur Beantragung der Energiepreispauschale in Höhe von 200€ gemäß dem [*EPPSG*](https://www.gesetze-im-internet.de/eppsg/).
+Das ~~ist~~ war tatsächlich die offizielle Domain des Bundesministeriums für Bildung und Forschung zur Beantragung der Energiepreispauschale in Höhe von 200€ gemäß dem [*EPPSG*](https://www.gesetze-im-internet.de/eppsg/).
 
 Oder du suchst meine *Adlist für Pi-Hole*? 🕳 [https://&shy;www.&shy;ein&shy;mal&shy;zah&shy;lung&shy;zwei&shy;hun&shy;dert&shy;.de/bl-einmalzahlung.txt](https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt)
 
@@ -12,7 +12,10 @@ Oder du suchst meine *Adlist für Pi-Hole*? 🕳 [https://&shy;www.&shy;ein&shy;
 
 ## 📰 Aktuelles
 
-Im November 2023 hat mutmaßlich Raphael S. einen DMCA-Takedown Antrag gegen
+**Seit dem 26.01.2024** gibt es auf der Seite [www.einmalzahlung200.de](https://www.einmalzahlung200.de/) Wartungsarbeiten bzw. eine Umleitung auf den Artikel
+["Über 2,8 Millionen Studierende und Fachschüler wurden durch die Einmalzahlung entlastet"](https://www.bmbf.de/bmbf/shareddocs/faq/200-euro-einmalzahlung-fuer-studierende.html) vom BMBF.
+
+**Im November 2023** hat mutmaßlich Raphael S. einen DMCA-Takedown Antrag gegen
 das Repostitory von Trickest bei [Github](https://github.com/trickest/zip/tree/main)
 gestellt. Dieses Repository ist die Quelle für meine Zip-Domain-Adlist. Wegen diesem
 Antrag ist das Repo nicht mehr öffentlich zugänglich.

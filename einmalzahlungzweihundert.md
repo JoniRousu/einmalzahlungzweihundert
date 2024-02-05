@@ -31,7 +31,7 @@ Andere ähnliche Seiten wie diese habe ich in meiner [Linksammlung mit "Einmalza
 
 ---
 
-### 📈 Aufrufzahlen dieser Seite
+## 📈 Aufrufzahlen dieser Seite
 
 Was solche Seiten potentiell an Schaden hätten hervorrufen können, verdeutlichen die Aufrufzahlen dieser Webseite (einmalzahlungzweihundert.de).
 
@@ -64,6 +64,21 @@ Dies ist mit viel Kritik verbunden, da dieses Konto zwangsweise angelegt werden 
 Wenn die Hochschule o.ä. einen personalisierten Code mit PIN-Code generiert, ist es nicht mehr nötig die Identität erneut zu bestätigen.
 
 Witzigerweise gibt es nun eine Seite: [Widerruf200.de](https://widerruf200.de/) auf der eine E-Mail generiert werden kann, um die BundID löschen zu lassen.
+
+---
+
+## 💲 Bilanz
+
+Am 23.01.2024 veröffentlichte das Bundesministerium für Bildung und Forschung (BMBF) einen
+Artikel zur Einmalzahlung200.
+
+Darin heißt es, dass fast 80 Prozent der Berechtigten einen Antrag gestellt haben und so
+insgesamt 567 Millionen Euro an 2,&nbsp;84 Millionen Studierende und (Berufs-)Fachschülerinnen und -schüler ausgezahlt wurden.
+
+Ebenso stieg die Nutzerzahl der ~~zwangsweise benötigten~~ BundID von rund 300.000 auf fast
+3,4&nbsp; Millionen.
+
+[Link zum Artikel](https://www.bmbf.de/bmbf/shareddocs/faq/200-euro-einmalzahlung-fuer-studierende.html)
 
 ---
 
