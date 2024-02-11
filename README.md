@@ -38,7 +38,7 @@ Bei [Github](https://github.com/trickest/zip/tree/main) gibt es ein Repo mit ein
 
 ---
 
-### Über 1300 Nutzer der Adlisten 😳 Vielen Dank!
+### Über 1400 Nutzer der Adlisten 😳 Vielen Dank!
 
 ---
 

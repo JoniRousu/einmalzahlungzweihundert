@@ -18,13 +18,7 @@ neulich Pi-Hole installiert habe, biete ich sie direkt mal als Adlist an.
 
 ---
 
-[Hier eine Seite](https://einmaIzahlung200.de/), auf der noch mehr Domains sind, die extra aus diesem Grund registriert wurden.
-
-Immerhin wurden die Domains
-
-- [1malzahlung200.de](https://1malzahlung200.de)
-- [einmal-zahlung-200.de](https://einmal-zahlung-200.de/)
-
+Immerhin wurde die Domain [einmal-zahlung-200.de](https://einmal-zahlung-200.de/)
 registriert mit einer Umleitung auf die echte Seite.
 
 Andere ähnliche Seiten wie diese habe ich in meiner [Linksammlung mit "Einmalzahlungsseiten"](/Linksammlung) zusammengefasst.
