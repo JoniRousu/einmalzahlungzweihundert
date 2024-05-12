@@ -6,7 +6,7 @@ Hier ein Linksammlung mit "Einmalzahlungsseiten" auf die ich selbst gestoßen bi
 
 ## 😉 Andere ähnliche Seiten
 
-- [https://einmaalzahlung200.de/](https://einmaalzahlung200.de/)
+- [https://einmaalzahlung200.de/](https://einmaalzahlung200.de/) (Verweist jetzt auf [https://julis-hessen.de/](https://julis-hessen.de/))
 - [https://einmalzahlung250.de/](https://einmalzahlung250.de/)
 - [https://einmalzalung200.de/](https://einmalzalung200.de/)
 - [https://200einmalzahlung.de/](https://200einmalzahlung.de/)
@@ -15,12 +15,8 @@ Hier ein Linksammlung mit "Einmalzahlungsseiten" auf die ich selbst gestoßen bi
 
 ## 😄 Lustige Redirects
 
-- [http://einmalzahlung69.de/](http://einmalzahlung69.de/)
 - [http://einmalzahlung2OO.de/](http://einmalzahlung2OO.de/)
-- [https://einmalzahlung420.de/](https://einmalzahlung420.de/)
 - [http://einmalzahlung600.de/](http://einmalzahlung600.de/)
-- [http://einmalzahlung800.de/](http://einmalzahlung800.de/)
-- [http://einmalzahlung1000.de/](http://einmalzahlung1000.de/)
 
 ---
 
